@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodbe-io/test-pkg.git.git"
+    "url": "git+https://github.com/rodbe-io/test-pkg.git"
   },
   "license": "MIT",
   "author": "Rodbe",
