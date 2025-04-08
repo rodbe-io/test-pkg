@@ -14,6 +14,8 @@ permissions:
 
 env:
   HUSKY: 0
+  MY_ENV_1: ${{ vars.RB_APP_NAME }}
+  MY_SECRET_1: ${{ secrets.MY_SECRET_TEST }}
 
 jobs:
   setup:
