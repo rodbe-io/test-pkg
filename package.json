@@ -81,14 +81,15 @@
     "typescript-eslint": "^8.24.1",
     "vitest": "^3.0.6"
   },
-  "packageManager": "pnpm@9.15.2",
+  "packageManager": "pnpm@10.5.2",
   "engines": {
     "node": ">= 18.18.2",
     "npm": ">= 8.11.0",
     "pnpm": ">= 9.15.2"
   },
   "volta": {
-    "node": "18.18.2"
+    "node": "25.2.1",
+    "pnpm": "10.5.2"
   },
   "publishConfig": {
     "access": "public"

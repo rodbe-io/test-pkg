@@ -1,5 +1,4 @@
-// eslint-disable-next-line no-restricted-exports
-export default {
+module.exports = {
   branches: [
     '+([0-9])?(.{+([0-9]),x}).x',
     'main',
@@ -42,6 +41,7 @@ export default {
       '@semantic-release/npm',
       {
         npmPublish: true,
+        provenance: true,
       },
     ],
     [
