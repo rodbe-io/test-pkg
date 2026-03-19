@@ -25,7 +25,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "src/*.md"
   ],
   "scripts": {
     "prebuild": "pnpm run type-check",
