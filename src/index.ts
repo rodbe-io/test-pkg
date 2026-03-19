@@ -4,8 +4,8 @@ import { mysingleton3 } from './mod-3';
 import { other } from './other';
 
 export const init = () => {
-  console.log('init RBX lib', process.env.MY_ENV_1);
-  console.log('init RBX lib', process.env.MY_SECRET_1);
+  // console.log('init RBX lib', process.env.MY_ENV_1);
+  // console.log('init RBX lib', process.env.MY_SECRET_1);
 };
 
 const obj1 = mysingleton.getInstance();
