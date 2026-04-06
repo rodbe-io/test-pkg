@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/rodbe-io/test-pkg/compare/v1.1.0...v1.2.0) (2026-04-06)
+
+### Features
+
+* add file ([0e2c04d](https://github.com/rodbe-io/test-pkg/commit/0e2c04dc3ea42e5d2695d2f62a0a9f161fdfd32a))
+
 ## [1.1.0](https://github.com/rodbe-io/test-pkg/compare/v1.0.1...v1.1.0) (2026-03-25)
 
 ### Features
