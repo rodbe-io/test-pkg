@@ -1,3 +1,9 @@
+## [1.12.0](https://github.com/rodbe-io/test-pkg/compare/v1.11.0...v1.12.0) (2026-05-04)
+
+### Features
+
+* use without jsonstr ([af801f4](https://github.com/rodbe-io/test-pkg/commit/af801f49c9e2ab028fde3d897e099a7952943285))
+
 ## [1.11.0](https://github.com/rodbe-io/test-pkg/compare/v1.10.0...v1.11.0) (2026-05-04)
 
 ### Features
