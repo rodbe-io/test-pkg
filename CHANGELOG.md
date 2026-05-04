@@ -1,3 +1,9 @@
+## [1.12.1](https://github.com/rodbe-io/test-pkg/compare/v1.12.0...v1.12.1) (2026-05-04)
+
+### Reverts
+
+* Revert "feat: use without jsonstr" ([a07fb25](https://github.com/rodbe-io/test-pkg/commit/a07fb256af0d095520966d733f193766e8efe1a6))
+
 ## [1.12.0](https://github.com/rodbe-io/test-pkg/compare/v1.11.0...v1.12.0) (2026-05-04)
 
 ### Features
