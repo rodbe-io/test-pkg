@@ -1,3 +1,9 @@
+## [1.10.0](https://github.com/rodbe-io/test-pkg/compare/v1.9.0...v1.10.0) (2026-05-04)
+
+### Features
+
+* set env like secrets and point to test workflow ([b148afa](https://github.com/rodbe-io/test-pkg/commit/b148afaa4c8f7a27d3a9f9f42cca243d55790df9))
+
 ## [1.9.0](https://github.com/rodbe-io/test-pkg/compare/v1.8.0...v1.9.0) (2026-05-04)
 
 ### Features
