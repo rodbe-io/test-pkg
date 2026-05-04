@@ -27,4 +27,4 @@ jobs:
     secrets:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       MY_ENV_1: ${{ secrets.MY_SECRET_TEST }}
-      MY_ENV_2: ${{ secrets.MY_ENV_2 }}
+      MY_ENV_2: 'soy el env 2'
