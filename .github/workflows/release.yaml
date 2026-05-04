@@ -24,7 +24,4 @@ jobs:
     with:
       enable-test-unit: true
 
-    secrets:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      MY_ENV_1: ${{ secrets.MY_SECRET_TEST }}
-      MY_ENV_2: 'soy el env 2 yes'
+    secrets: inherit
