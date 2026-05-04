@@ -1,3 +1,10 @@
+## [1.9.0](https://github.com/rodbe-io/test-pkg/compare/v1.8.0...v1.9.0) (2026-05-04)
+
+### Features
+
+* log for envs ([43be191](https://github.com/rodbe-io/test-pkg/commit/43be191f7648086e52562c093ea770794ded6041))
+* use const ([d2ff569](https://github.com/rodbe-io/test-pkg/commit/d2ff569bac0710b1eb194ef3b7ee69709115c801))
+
 ## [1.8.0](https://github.com/rodbe-io/test-pkg/compare/v1.7.0...v1.8.0) (2026-05-04)
 
 ### Features
