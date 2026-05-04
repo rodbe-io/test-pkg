@@ -1,3 +1,9 @@
+## [1.11.0](https://github.com/rodbe-io/test-pkg/compare/v1.10.0...v1.11.0) (2026-05-04)
+
+### Features
+
+* use string in secret ([4285f49](https://github.com/rodbe-io/test-pkg/commit/4285f49446c0a0872c63911a2217c8404d534c23))
+
 ## [1.10.0](https://github.com/rodbe-io/test-pkg/compare/v1.9.0...v1.10.0) (2026-05-04)
 
 ### Features
