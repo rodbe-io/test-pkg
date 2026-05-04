@@ -1,3 +1,9 @@
+## [1.13.0](https://github.com/rodbe-io/test-pkg/compare/v1.12.1...v1.13.0) (2026-05-04)
+
+### Features
+
+* use str direct ([d13df14](https://github.com/rodbe-io/test-pkg/commit/d13df14cbee93fc3e05583ec138bca53c89709bc))
+
 ## [1.12.1](https://github.com/rodbe-io/test-pkg/compare/v1.12.0...v1.12.1) (2026-05-04)
 
 ### Reverts
