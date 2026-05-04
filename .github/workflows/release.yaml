@@ -16,15 +16,15 @@ permissions:
 
 env:
   HUSKY: 0
-  MY_ENV_1: ${{secrets.MY_SECRET_TEST}}
-  MY_ENV_2: 'Soy el env 2'
 
 jobs:
   call-shared-workflow:
-    uses: rodbe-io/shared-workflows/.github/workflows/release.yaml@main
+    uses: rodbe-io/shared-workflows/.github/workflows/release.yaml@test
 
     with:
       enable-test-unit: true
 
     secrets:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      MY_ENV_1: ${{ secrets.MY_SECRET_TEST }}
+      MY_ENV_2: ${{ secrets.MY_ENV_2 }}
