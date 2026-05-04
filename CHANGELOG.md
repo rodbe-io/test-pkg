@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/rodbe-io/test-pkg/compare/v1.2.0...v1.3.0) (2026-05-04)
+
+### Features
+
+* secret env ([d27409d](https://github.com/rodbe-io/test-pkg/commit/d27409dfc60d929baf147d37a917d6c411bfe0a7))
+
 ## [1.2.0](https://github.com/rodbe-io/test-pkg/compare/v1.1.0...v1.2.0) (2026-04-06)
 
 ### Features
