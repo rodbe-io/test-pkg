@@ -1,3 +1,9 @@
+## [1.8.0](https://github.com/rodbe-io/test-pkg/compare/v1.7.0...v1.8.0) (2026-05-04)
+
+### Features
+
+* define to env2 ([4580c37](https://github.com/rodbe-io/test-pkg/commit/4580c37c3ec5780338fac3a16a8709aac4dffe0a))
+
 ## [1.7.0](https://github.com/rodbe-io/test-pkg/compare/v1.6.0...v1.7.0) (2026-05-04)
 
 ### Features
