@@ -6,7 +6,7 @@ export default defineConfig({
   clean: true,
   define: {
     mysingleton: '"hey"',
-    'process.env.MY_ENV_1': JSON.stringify(process.env['MY_ENV_1'] ?? ''),
+    'process.env.MY_ENV_1': JSON.stringify(process.env['MY_ENV_1'] ?? 'ups'),
     'process.env.MY_ENV_2': JSON.stringify(process.env['MY_ENV_2'] ?? 'upsi'),
   },
   dts: true,
@@ -14,7 +14,7 @@ export default defineConfig({
   // envFile: '.env', cuando se quiera usar variables de entorno
   fixedExtension: false,
   format: ['esm', 'cjs'],
-  minify: true,
+  minify: false,
   sourcemap: false,
   treeshake: true,
 });
