@@ -12,7 +12,7 @@ export default defineConfig({
   clean: true,
   define: {
     mysingleton: '"hey"',
-    'process.env.MY_ENV_1': JSON.stringify(MY_ENV_1),
+    'process.env.MY_ENV_1': JSON.stringify(process.env['MY_ENV_1'] ?? ''),
     'process.env.MY_ENV_2': JSON.stringify(MY_ENV_2),
   },
   dts: true,
