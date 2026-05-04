@@ -1,3 +1,9 @@
+## [1.14.0](https://github.com/rodbe-io/test-pkg/compare/v1.13.0...v1.14.0) (2026-05-04)
+
+### Features
+
+* use envs secrets from shared ([eb9d968](https://github.com/rodbe-io/test-pkg/commit/eb9d968813dfdfa4b92f65d09834b8ffca2679dd))
+
 ## [1.13.0](https://github.com/rodbe-io/test-pkg/compare/v1.12.1...v1.13.0) (2026-05-04)
 
 ### Features
