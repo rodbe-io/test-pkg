@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/rodbe-io/test-pkg/compare/v1.3.0...v1.4.0) (2026-05-04)
+
+### Features
+
+* tsdown ([0e7e954](https://github.com/rodbe-io/test-pkg/commit/0e7e95416995305b373e2bbd4451f703a3c06d36))
+
 ## [1.3.0](https://github.com/rodbe-io/test-pkg/compare/v1.2.0...v1.3.0) (2026-05-04)
 
 ### Features
