@@ -6,5 +6,12 @@
   },
   "exclude": ["node_modules", "dist"],
   "extends": "@rodbe/tsconfig/bundler/no-dom/app",
-  "include": ["src", "commitlint.config.ts", ".nano-staged.js", "vitest.config.ts", "release.config.cjs"]
+  "include": [
+    "src",
+    "commitlint.config.ts",
+    ".nano-staged.js",
+    "vitest.config.ts",
+    "release.config.cjs",
+    "tsdown.config.ts"
+  ]
 }
