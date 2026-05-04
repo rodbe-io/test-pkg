@@ -7,6 +7,7 @@ export default defineConfig({
   define: {
     mysingleton: '"hey"',
     'process.env.MY_ENV_1': JSON.stringify(process.env['MY_ENV_1'] ?? ''),
+    'process.env.MY_ENV_2': JSON.stringify(process.env['MY_ENV_2'] ?? 'upsi'),
   },
   dts: true,
   entry: ['./src/index.ts'],
