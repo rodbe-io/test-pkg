@@ -1,3 +1,9 @@
+## [1.6.0](https://github.com/rodbe-io/test-pkg/compare/v1.5.0...v1.6.0) (2026-05-04)
+
+### Features
+
+* use stringify ([1c06d53](https://github.com/rodbe-io/test-pkg/commit/1c06d53ab4831fa931aae492578896e78e018bfd))
+
 ## [1.5.0](https://github.com/rodbe-io/test-pkg/compare/v1.4.0...v1.5.0) (2026-05-04)
 
 ### Features
