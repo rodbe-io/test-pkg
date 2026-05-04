@@ -17,6 +17,7 @@ permissions:
 env:
   HUSKY: 0
   MY_ENV_1: ${{secrets.MY_SECRET_TEST}}
+  MY_ENV_2: 'Soy el env 2'
 
 jobs:
   call-shared-workflow:
