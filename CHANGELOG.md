@@ -1,3 +1,9 @@
+## [1.7.0](https://github.com/rodbe-io/test-pkg/compare/v1.6.0...v1.7.0) (2026-05-04)
+
+### Features
+
+* add env 2 ([f56dd87](https://github.com/rodbe-io/test-pkg/commit/f56dd87e87a1cdb185a6e38630efeb9e158885cd))
+
 ## [1.6.0](https://github.com/rodbe-io/test-pkg/compare/v1.5.0...v1.6.0) (2026-05-04)
 
 ### Features
